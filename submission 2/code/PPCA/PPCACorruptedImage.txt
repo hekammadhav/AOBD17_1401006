@@ -1,0 +1,3 @@
+1138 Corruption entries
+Elapsed time is 2.804825 seconds.
+err=0.010100

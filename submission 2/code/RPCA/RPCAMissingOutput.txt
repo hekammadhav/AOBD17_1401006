@@ -1,0 +1,39 @@
+ rpca_missing
+iter: 0001	err: 0.013972	rank(L): 118	card(S): 39190
+iter: 0010	err: 0.001673	rank(L): 29	card(S): 109280
+iter: 0020	err: 0.000685	rank(L): 29	card(S): 128923
+iter: 0030	err: 0.000478	rank(L): 29	card(S): 137430
+iter: 0040	err: 0.000904	rank(L): 17	card(S): 130543
+iter: 0050	err: 0.000291	rank(L): 18	card(S): 139641
+iter: 0060	err: 0.000166	rank(L): 18	card(S): 144563
+iter: 0070	err: 0.000115	rank(L): 18	card(S): 147483
+iter: 0080	err: 0.000085	rank(L): 19	card(S): 149747
+iter: 0090	err: 0.000068	rank(L): 19	card(S): 151545
+iter: 0100	err: 0.000056	rank(L): 19	card(S): 152980
+iter: 0110	err: 0.000048	rank(L): 19	card(S): 154282
+iter: 0120	err: 0.000042	rank(L): 19	card(S): 155375
+iter: 0130	err: 0.000037	rank(L): 19	card(S): 156311
+iter: 0140	err: 0.000033	rank(L): 20	card(S): 157182
+iter: 0150	err: 0.000030	rank(L): 20	card(S): 157951
+iter: 0160	err: 0.000028	rank(L): 20	card(S): 158589
+iter: 0170	err: 0.000026	rank(L): 21	card(S): 159158
+iter: 0180	err: 0.000024	rank(L): 21	card(S): 159700
+iter: 0190	err: 0.000022	rank(L): 21	card(S): 160236
+iter: 0200	err: 0.000021	rank(L): 21	card(S): 160723
+iter: 0210	err: 0.000019	rank(L): 21	card(S): 161230
+iter: 0220	err: 0.000018	rank(L): 21	card(S): 161688
+iter: 0230	err: 0.000017	rank(L): 21	card(S): 162087
+iter: 0240	err: 0.000016	rank(L): 21	card(S): 162483
+iter: 0250	err: 0.000015	rank(L): 21	card(S): 162847
+iter: 0260	err: 0.000015	rank(L): 21	card(S): 163174
+iter: 0270	err: 0.000014	rank(L): 21	card(S): 163487
+iter: 0280	err: 0.000013	rank(L): 21	card(S): 163782
+iter: 0290	err: 0.000013	rank(L): 22	card(S): 164061
+iter: 0300	err: 0.000012	rank(L): 22	card(S): 164327
+iter: 0310	err: 0.000012	rank(L): 22	card(S): 164578
+iter: 0320	err: 0.000011	rank(L): 22	card(S): 164861
+iter: 0330	err: 0.000011	rank(L): 22	card(S): 165101
+iter: 0340	err: 0.000010	rank(L): 22	card(S): 165342
+iter: 0350	err: 0.000010	rank(L): 22	card(S): 165549
+Elapsed time is 66.901395 seconds.
+err=0.078192
